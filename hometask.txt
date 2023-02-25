@@ -1,0 +1,15 @@
+1. Изначально в обоих ветках были init, heat added, boots, README added, dots. 
+2. В master добавлено много коммитов, потому что были совершены слияния с hat и boots_buttons. 
+3. 12 коммитов:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+boots added to boots_buttons
+Merge remote-tracking branch 'origin/button
+buttons added to boots_buttonss' into boots_buttons
+Merge remote-tracking branch 'origin/hat' into boots_buttons
+hometask.txt added
